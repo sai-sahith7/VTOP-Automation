@@ -1,5 +1,5 @@
 # VTOP-Automator
-Automates Course Page Of VTOP (using Selenium)
+Automates Course Page Of VTOP (using Selenium) by opening course page of each subject on a new tab.
 
 Well, students of Vellore Institute of Technology definitely know the pain in using VTOP's course page
 
