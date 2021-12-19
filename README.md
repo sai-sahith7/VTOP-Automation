@@ -12,7 +12,7 @@ Well, for this to work we need the following :-
   * An extension file availbe in Repository (for Captcha purposes)
   * Data of your Course IDs and Class IDs
 
-** Note:- The python file, extension file and the web-driver must all conatin in the same folder (or change the path to the file location in the code)**  
+**Note:- The python file, extension file and the web-driver must all conatin in the same folder (or change the path to the file location in the code)**  
 
 Make changes where required (which will be mentioned in the code using comments, so look out for them)
 
