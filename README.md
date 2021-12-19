@@ -1,5 +1,5 @@
 # VTOP-Automator
-Automates Course Page Of VTOP (using Selenium) by opening course page of each subject on a new tab.
+Automates Course Page Of VTOP (using Selenium) by opening course page of each subject on a new tab. (Check out the video in this repository to witness this in action.)
 
 Well, students of Vellore Institute of Technology definitely know the pain in using VTOP's course page
 
@@ -11,6 +11,8 @@ Well, for this to work we need the following :-
   * A web-driver of your choice (preferrably Chrome)
   * An extension file availbe in Repository (for Captcha purposes)
   * Data of your Course IDs and Class IDs
+
+** Note:- The python file, extension file and the web-driver must all conatin in the same folder (or change the path to the file location in the code)**  
 
 Make changes where required (which will be mentioned in the code using comments, so look out for them)
 
