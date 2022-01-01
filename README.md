@@ -1,4 +1,4 @@
-# VTOP-Bot
+# VTOP-Automation
 Automates Course Page Of VTOP (using Selenium) by opening course page of each subject on a new tab. (Check out the video in this repository to witness this in action.)
 
 Well, students of Vellore Institute of Technology definitely know the pain in using VTOP's course page
